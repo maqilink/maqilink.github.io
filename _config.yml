@@ -1,22 +1,22 @@
-title:            易仁永澄的思维碎片
+title:            马琦的试验田
 description:      
-disqus_shortname: growuptop
+# disqus_shortname: growuptop
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:             http://growup.top
+url:             http://maqi.link 
 
 # Owner/author information
 owner:
-  name:           易仁永澄
+  name:           马琦
   avatar:         avatar.jpg
-  bio:            "让思考产生力量！"
-  email:          ceo@runwith.cc
+  bio:            "让成长留下痕迹！"
+  email:          maqilink@qq.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:             
   facebook:       
-  github: hiddenwangcc      
+  github: maqilink      
   stackexchange:      
   linkedin:       
   instagram:      
