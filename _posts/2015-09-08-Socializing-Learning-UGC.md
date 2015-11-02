@@ -2,7 +2,7 @@
 layout: post
 title: 如何让活动参与者主动产生内容以及如何宣传推广？
 description: "社会化学习活动的调研应该注意哪些事项呢"
-tags: [UGC，宣传，社会化学习]
+tags: [UGC,宣传,社会化学习]
 image:
   feature: jeklly.jpg
 ---
